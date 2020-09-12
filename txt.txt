@@ -1,0 +1,14 @@
+- Sessions
+- Users
+- Cookies
+- Var / Constante
+- Boucles / Conditions
+- Func
+- SUPERGLOBALES ($_GET, $_POST, $_SESSION, $_SERVER...)
+- Arrays
+- (Modif fichiers)
+- Inclusion (include vs require, include_once, require_once ?)
+
+
+- Relations BDD
+- Connexion : PDO / mysqli ?

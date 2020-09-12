@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c631bf17-ec97-4685-81e7-238fed1bf4df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h8hgFsQ9oP80TVDRv0puipE0bL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\AlexGybouTVFR-php" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c631bf17-ec97-4685-81e7-238fed1bf4df" name="Default Changelist" comment="" />
+      <created>1599398736495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599398736495</updated>
+      <workItem from="1599398737829" duration="13968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1126" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599404227914">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="1126" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1122@0.0.2048.1122" timestamp="1599404227914" />
+    <state x="860" y="481" key="NewPhpFileDialog" timestamp="1599406959821">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="860" y="481" key="NewPhpFileDialog/0.0.2048.1122@0.0.2048.1122" timestamp="1599406959821" />
+    <state x="533" y="207" key="SettingsEditor" timestamp="1599402116087">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="533" y="207" key="SettingsEditor/0.0.2048.1122@0.0.2048.1122" timestamp="1599402116087" />
+    <state x="687" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1599402154489">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="687" y="246" width="672" height="678" key="search.everywhere.popup/0.0.2048.1122@0.0.2048.1122" timestamp="1599402154489" />
+  </component>
+</project>
